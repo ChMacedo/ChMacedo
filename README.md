@@ -1,4 +1,4 @@
-<h1>Hi, I'm Christian, an <a href="www.linkedin.com/in/christian-macedo-85b5731b0/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Christian, an <a href="www.linkedin.com/in/christian-macedo-85b5731b0/">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
